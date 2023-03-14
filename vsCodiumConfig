@@ -1,0 +1,28 @@
+﻿{
+"launch": {
+"configurations": [
+{
+"type": "node",
+"request": "launch",
+"name": "Launch Program",
+"program": "${file}"
+}
+],
+"compounds": []
+},
+"workbench.editor.showTabs": false,
+"window.commandCenter": true,
+"breadcrumbs.enabled": false,
+"editor.renderWhitespace": "none",
+"editor.minimap.enabled": false,
+"workbench.editor.enablePreview": false,
+"breadcrumbs.filePath": "off",
+"editor.fontVariations": false,
+"workbench.statusBar.visible": false,
+"window.menuBarVisibility": "toggle",
+"editor.renderControlCharacters": false,
+"editor.fontSize": 19,
+"workbench.activityBar.visible": false,
+"window.zoomLevel": -3
+}
+
